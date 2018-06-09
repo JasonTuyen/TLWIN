@@ -1,1 +1,165 @@
+body{
+  background:url("http://freedesignfile.com/upload/2014/06/Water-ripples-vector-pattern-background.jpg");
+  background-size:cover;
+  background-attachment:fixed;
+  margin: 0 auto;
+  color:#373838;
+}
+.header{
+  width:100%;
+  height:auto;
+  padding-top:24px;
+}
+.headerContent{
+  width:1024px;
+  height:auto;
+  margin:0 auto;
+  background:white;
+}
+nav{
+  height:40px;
+  background:#7CBAE6;
+}
+nav ul{
+  margin:0;
+  padding:0;
+}
+nav ul li{
+  list-style:none;
+}
+nav ul li a {
+  text-decoration:none;
+  float:left;
+  display:block;
+  padding:10px 20px;
+  color:black;
+}
+nav ul li a:hover{
+  color:white;
+}
+.star{
+  background:#D1E2F1;
+  height:621px;
+  width:1024px;
+  margin: 0 auto;
+  padding:0;
+}
+.star-heading{
+  z-index:1;
+  position:absolute;
+  top:325px;
+  left:650px;
+}
+.star-title{
+  z-index:1;
+  position:absolute;
+  top:560px;
+  left:0 auto;
+}
+.star-info{
+  z-index:1;
+  position:absolute;
+  top:590px;
+  left:0 auto;
+}
+.star-stat{
+  z-index:1;
+  position:absolute;
+  top:620px;
+  left:0 auto;
+}
+#team{
+  width:1000px;
+  height:auto;
+  margin:0 auto;
+  background:#7CBAE6;
+  position:relative;
+  top:-4px;
+  text-align:left;
+  padding-top:10px;
+  padding-left:24px;
+  padding-bottom:20px;
+}
+#steve{
+  width:700px;
+  height:300px;
+  position:relative;
+  left:0 auto;
+  background:#D1E2F1;
+}
+#dlim{
+  width:700px;
+  height:300px;
+  position:relative;
+  left:0 auto;
+  background:#D1E2F1;
+}
+#gm{
+  width:700px;
+  height:300px;
+  position:relative;
+  left:0 auto;
+  background:#D1E2F1;
+}
+#lourlo{
+    width:700px;
+  height:300px;
+  position:relative;
+  left:0 auto;
+  background:#D1E2F1;
+}
+#reignover{
+  width:700px;
+  height:300px;
+  position:relative;
+  left:0 auto;
+  background:#D1E2F1;
+}
+#goldenglue{
+  width:700px;
+  height:300px;
+  position:relative;
+  left:0 auto;
+  background:#D1E2F1;
+}
+#piglet{
+  width:700px;
+  height:300px;
+  position:relative;
+  left:0 auto;
+  background:#D1E2F1;
+}
+#matt{
+  width:700px;
+  height:300px;
+  position:relative;
+  left:0 auto;
+  background:#D1E2F1;
+}
+#about {
+  width: 1024px; 
+  height:auto;
+  margin: 0 auto;
+  background: #D1E2F1;
+  position:relative;
+  top:-4px;
+  text-align:center;
+  padding-top:10px;
+  padding-bottom:10px;
+}
+.profile{
+  margin-left:10px;
+  width:250px;
+  height:250px;
+  border-radius:100%;
+  float:left;
+}
+#social{
+  height:auto;
+  padding:10px;
+  position:relative;
+  top:-20px;
+  background:#7CBAE6
+}
+
 
