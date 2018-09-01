@@ -3,3 +3,5 @@ Team Liquid (League of Legends NALCS team) tribute website.  Just a tribute webs
 
 The most recent version can be seen here:  
 To-Do List: Revisions to V.2. and Start on a V.3.
+
+Put on hold i guess. 9/1/2018
