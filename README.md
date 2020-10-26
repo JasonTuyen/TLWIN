@@ -8,3 +8,7 @@ The most recent version (V.2) can be seen here: https://jasontuyen.github.io/TLW
 * HTML
 * CSS
 
+## Future Development Plans
+
+* Build a Version 3 becuase I haven't built a website since 2016.
+
